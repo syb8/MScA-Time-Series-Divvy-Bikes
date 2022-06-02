@@ -13,6 +13,9 @@ https://ride.divvybikes.com/system-data
 https://www.visualcrossing.com/weather/weather-data-services
 - Weather History
 
+**Period:**
+2017-2021
+
 **Goals:**
 - Realtime Hourly Forecast
 - Aggregated Daily Forecast
