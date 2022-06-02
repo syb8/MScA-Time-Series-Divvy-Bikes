@@ -38,5 +38,5 @@ Univariate Forecasting
 2. Causal impact, intervention model
 
 **Result:**
-1. TBATS using two seasonalities (yearly, weekly)
+1. Best model: TBATS using two seasonalities (yearly, weekly)
 2. Covid-19 impact can be seen by incorporating weather data as weather provides contrast to traffic data (weather not affected by Covid while Divvy traffic was. Covid-19 also impacts various regions differently).
