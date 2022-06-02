@@ -4,8 +4,10 @@ Use Case:
 - Predicting potential station/dock availability using bike-in and bike-out data as proxies
 
 Dataset:
+https://ride.divvybikes.com/system-data
 - Divvy Bikes Travel History
 - Bike-in and Bike-out
+https://www.visualcrossing.com/weather/weather-data-services
 - Weather History
 
 Goals:
